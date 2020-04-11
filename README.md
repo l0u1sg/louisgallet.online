@@ -6,7 +6,7 @@ This is the **master** branch. This is the main page of the site. This branch is
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f14a1eeb-2e4d-4964-841c-d90acd499232/deploy-status)](https://app.netlify.com/sites/louisgalletbeta/deploys)
 
 
-## information for developers : 
+## Information for developers : 
 
 Please do **not publish** this branch unless authorized. Please test the features locally on your computer.
 
