@@ -1,58 +1,15 @@
 {
-  "name": "louisgallet.online",
-  "version": "1.0.0",
+  "name": "louisgallet",
+  "version": "0.1.0",
   "private": true,
-  "author": {
-    "name": "Louis Gallet",
-    "email": "louis.gallet@tumo.world"
-  },
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
-  "main": "index.js",
   "dependencies": {
-    "core-js": "^3.6.5",
-    "vue": "^2.6.11"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
-  },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "plugin:vue/essential",
-      "eslint:recommended"
-    ],
-    "parserOptions": {
-      "parser": "babel-eslint"
-    },
-    "rules": {}
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead"
-  ],
-  "_id": "louisgallet.online@1.0.0",
-  "bugs": {
-    "url": "https://github.com/l0u1sg/louisgallet.online/issues"
-  },
-  "homepage": "https://github.com/l0u1sg/louisgallet.online#readme",
-  "license": "MIT",
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://louisgallet95@github.com/l0u1sg/louisgallet.online.git"
+    "next": "10.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   }
 }
