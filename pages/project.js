@@ -10,7 +10,8 @@ export default function Home() {
         <meta name="description" content="Project page | Louis Gallet" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <br />
+      <br />
       <main className={styles.main}>
         <h1 className={styles.title}>
           📚 My Project
